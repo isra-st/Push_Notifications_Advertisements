@@ -40,6 +40,7 @@ Boost the notification push during the time periods with higher subscribers acti
 Subscribers lose interest on the ads embeded in the noticitions over the time: 
   * A subscriber “interest retention” plan could help to boost the Ads 'Opened Rate' for longer time subscribed users.
  
+ 
     <img src='https://user-images.githubusercontent.com/73388089/114279532-79107d00-9a35-11eb-8d98-8ea4c563d4ce.png' width="440" height="320">
 
 The optimal number of Ads repetition should  be in average 4:
@@ -47,11 +48,13 @@ The optimal number of Ads repetition should  be in average 4:
    * 1st impression: 17.9%
    * 4th repetition: 7.1%
    
+   
    <img src='https://user-images.githubusercontent.com/73388089/114280100-140a5680-9a38-11eb-98e8-b71be9f0b056.png' width="440" height="320">
    
 * The probability of opening the Ads decrease after every repetition
   * Probability on the 1st impression: 0.8%
   * Probability on the 4th repetition: 0.3%
+   
    
   <img src='https://user-images.githubusercontent.com/73388089/114280171-5b90e280-9a38-11eb-8786-94d868ced90f.png' width="440" height="320">
   
