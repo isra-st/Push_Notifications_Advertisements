@@ -37,7 +37,6 @@ Boost the notification push during the time periods with higher subscribers acti
   * Saturdays the lower 'Click Through Rate' of the week
   * Between 09:00 AM and 11:00 AM the higher 'Click Through Rate' of the day
    
-
 Subscribers lose interest on the ads embeded in the noticitions over the time: 
   * A subscriber “interest retention” plan could help to boost the Ads 'Opened Rate' for longer time subscribed users.
  
@@ -61,6 +60,11 @@ The optimal number of Ads repetition should  be in average 4:
   <img src='https://user-images.githubusercontent.com/73388089/114280185-69466800-9a38-11eb-8a7f-ffc77e0fb0b2.png' width="440" height="320">
 
 
+# 4. Presentation
+
+To see the presentation, click in the below picture.
+
+[![Customer Segmentation_Github](https://user-images.githubusercontent.com/73388089/114280289-da861b00-9a38-11eb-80ab-54801e271918.png)](https://github.com/isra-st/Push_Notifications_Advertisements/files/6290494/Outpush.-.Ironhack.-.Final.project.pptx)
 
 
 
