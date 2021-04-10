@@ -37,4 +37,4 @@ Challenges of this project:
 
 * Subscribers “Interest retention” plan.  
    A subscriber “interest retention” plan could help to boost the Ads 'Opened Rate' for longer time subscribed users.
-   <img src='https://user-images.githubusercontent.com/73388089/114279532-79107d00-9a35-11eb-8d98-8ea4c563d4ce.png' width="550" height="500">
+   <img src='https://user-images.githubusercontent.com/73388089/114279532-79107d00-9a35-11eb-8d98-8ea4c563d4ce.png' width="500" height="480">
