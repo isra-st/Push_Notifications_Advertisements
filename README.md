@@ -30,11 +30,11 @@ Challenges of this project:
 *‘Click Through Rate’ = Number of clicks on Ads / Number of impressions of the Ads
 
 # 3. Insights and recomendations
-* Boost the notification push during the time periods with higher subscribers activity
+* Boost the notification push during the time periods with higher subscribers activity:
    Wednesdays the higher 'Click Through Rate' of the week
    Saturdays the lower 'Click Through Rate' of the week
    Between 09:00 AM and 11:00 AM the higher 'Click Through Rate' of the day
 
-* Subscribers “Interest retention” plan.  
+* Subscribers “Interest retention” plan: 
    A subscriber “interest retention” plan could help to boost the Ads 'Opened Rate' for longer time subscribed users.
    <img src='https://user-images.githubusercontent.com/73388089/114279532-79107d00-9a35-11eb-8d98-8ea4c563d4ce.png' width="350" height="280">
