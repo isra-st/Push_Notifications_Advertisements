@@ -7,7 +7,7 @@ This is the repository of the Final Project of the Data Analytics bootcamp with 
 3. Conclussions
 4. Presentation
 
-#1.Introduction to  <img src='https://outpush.co/wp-content/uploads/2021/02/Outpush-Logo-3.png' width="142.5" height="35.63"> >
+#1.Introduction to <img src='https://outpush.co/wp-content/uploads/2021/02/Outpush-Logo-3.png' width="142.5" height="35.63">
 
 Push-notifications ads network
 Launched in december 2020
