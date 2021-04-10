@@ -29,7 +29,7 @@ Challenges of this project:
 
 *‘Click Through Rate’ = Number of clicks on Ads / Number of impressions of the Ads
 
-# 3. Insights and recomendations
+# 3. Insights and recommendations
 
 Boost the notification push during the time periods with higher subscribers activity:
 
