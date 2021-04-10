@@ -40,4 +40,4 @@ Boost the notification push during the time periods with higher subscribers acti
 
 Subscribers “Interest retention” plan: 
   * A subscriber “interest retention” plan could help to boost the Ads 'Opened Rate' for longer time subscribed users.
-    <img src='https://user-images.githubusercontent.com/73388089/114279532-79107d00-9a35-11eb-8d98-8ea4c563d4ce.png' width="380" height="300">
+    <img src='https://user-images.githubusercontent.com/73388089/114279532-79107d00-9a35-11eb-8d98-8ea4c563d4ce.png' width="400" height="320">
