@@ -1,6 +1,5 @@
-# Push_Notifications_Advertisements
+# ADVERTISING PUSH NOTIFICATIONS PERFORMANCE
+![image](https://user-images.githubusercontent.com/73388089/114278969-85470b00-9a32-11eb-8644-3b4e242a55f7.png)
 
 
-# Presentation
-[![Customer Segmentation_Github](https://user-images.githubusercontent.com/73388089/114189599-a6ccc780-994a-11eb-8830-f95b57c7057c.png)](https://github.com/isra-st/Push_Notifications_Advertisements/files/6286154/Outpush.-.Ironhack.-.Final.project.pptx)
 
