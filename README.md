@@ -24,7 +24,7 @@ Subscribers receive same notifications multiple times: is it usefull?
 
 Challenges of this project:
 
-  * Understand how do repeated impressions affect users ‘Click Through Rate’ across time
+  * Understand how do repeated impressions affect users ‘Click Through Rate’ over time
   * Perform statistical analysis
 
 *‘Click Through Rate’ = Number of clicks on Ads / Number of impressions of the Ads
