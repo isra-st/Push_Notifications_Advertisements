@@ -58,7 +58,7 @@ The optimal number of Ads repetition should  be in average 4:
    
   <img src='https://user-images.githubusercontent.com/73388089/114280171-5b90e280-9a38-11eb-8786-94d868ced90f.png' width="440" height="320">
   
-* The conditional probability of clicking the add, given it was not opened before, drops to in the 4th repetition.
+* The conditional probability of clicking the add, given it was not opened before, drops from 0.79 in the first impression to 0.38 in the 4th repetition.
 
   <img src='https://user-images.githubusercontent.com/73388089/114280185-69466800-9a38-11eb-8a7f-ffc77e0fb0b2.png' width="440" height="320">
 
