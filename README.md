@@ -33,8 +33,8 @@ Challenges of this project:
 
 Boost the notification push during the time periods with higher subscribers activity:
 
-  * Wednesdays the higher 'Click Through Rate' of the week
-  * Saturdays the lower 'Click Through Rate' of the week
+  * Wednesdays, the higher 'Click Through Rate' of the week
+  * Saturdays, the lower 'Click Through Rate' of the week
   * Between 09:00 AM and 11:00 AM the higher 'Click Through Rate' of the day
    
 Subscribers lose interest on the ads embeded in the noticitions over the time: 
